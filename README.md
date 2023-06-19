@@ -28,9 +28,14 @@ Vật lý
 
 Hóa học
 > *  D. X. Quy, L. N. Bich, V. T. Duy, N. B. Bien, and P. X. Dung, “(PDF) LLMs’ Capabilities at the High School Level in Chemistry: Cases of ChatGPT and Microsoft Bing AI Chat,” Researchgate.Net, 2023. https://www.researchgate.net/publication/371638463_LLMs’_Capabilities_at_the_High_School_Level_in_Chemistry_Cases_of_ChatGPT_and_Microsoft_Bing_AI_Chat.
+
 Sinh học
+
 Lịch sử
+
 Địa lý
+
 GDCD
+
 Chính trị
 > * T. M. Uoc, “Ho Chi Minh’s thoughts on the content, methods of education and the application of ChatGPT in higher education today in Vietnam,” JETT, ISSN-e 1989-9572, Vol. 14, Vol. 2, 2023, pages 147-154, vol. 14, no. 2, pp. 147–154, 2023, doi: 10.47750/jett.2023.14.02.014. https://jett.labosfor.com/index.php/jett/article/view/1528/997
