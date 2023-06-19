@@ -30,10 +30,13 @@ Hóa học
 > *  D. X. Quy, L. N. Bich, V. T. Duy, N. B. Bien, and P. X. Dung, “(PDF) LLMs’ Capabilities at the High School Level in Chemistry: Cases of ChatGPT and Microsoft Bing AI Chat,” Researchgate.Net, 2023. https://www.researchgate.net/publication/371638463_LLMs’_Capabilities_at_the_High_School_Level_in_Chemistry_Cases_of_ChatGPT_and_Microsoft_Bing_AI_Chat.
 
 Sinh học
+> * D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
 
 Lịch sử
+> * D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
 
 Địa lý
+> * D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
 
 GDCD
 
