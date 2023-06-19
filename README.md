@@ -3,7 +3,7 @@ Nghiên cứu về ChatGPT trong giáo dục Việt Nam
 
 ## Bộ dữ liệu 
 > * D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
-## Đánh giá ChatGPT và các mô hình tương tự
+## Đánh giá hiệu năng của ChatGPT và các mô hình tương tự
 > * T. T. C. Trang, “Thái Độ Và Kì Vọng Của Sinh Viên Sư Phạm Tiếng Anh Đối Với Chatgpt: Nghiên Cứu Tại Trường Đại Học Sư Phạm Hà Nội,” Tạp chí Giáo dục, vol. 23, no. 10, pp. 51–61, 2023. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/767
 > *  X.-Q. DAO, N.-B. Le, X.-D. Phan, and B.-B. Ngo, “An Evaluation of ChatGPT’s Proficiency in English Language Testing of The Vietnamese National High School Graduation Examination,” SSRN Electron. J., Jun. 2023, doi: 10.2139/SSRN.4473369. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473369
 > *  D. X. Quy, L. N. Bich, P. P. Dung, N. B. Bien, and V. T. Duy, “Evaluation of ChatGPT and Microsoft Bing AI Chat Performances on Physics Exams of Vietnamese National High School Graduation Examination,” arXiv Prepr. arXiv2306.04538, Jun. 2023. https://arxiv.org/abs/2306.04538
