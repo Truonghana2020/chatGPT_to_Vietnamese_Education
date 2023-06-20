@@ -27,7 +27,7 @@ Vật lý
 > *  D. X. Quy, L. N. Bich, P. P. Dung, N. B. Bien, and V. T. Duy, “Evaluation of ChatGPT and Microsoft Bing AI Chat Performances on Physics Exams of Vietnamese National High School Graduation Examination,” arXiv Prepr. arXiv2306.04538, Jun. 2023. https://arxiv.org/abs/2306.04538
 
 Hóa học
-> *  D. X. Quy, L. N. Bich, V. T. Duy, N. B. Bien, and P. X. Dung, “(PDF) LLMs’ Capabilities at the High School Level in Chemistry: Cases of ChatGPT and Microsoft Bing AI Chat,” Researchgate.Net, 2023. https://www.researchgate.net/publication/371638463_LLMs’_Capabilities_at_the_High_School_Level_in_Chemistry_Cases_of_ChatGPT_and_Microsoft_Bing_AI_Chat.
+> * Xuan-Quy D, Ngoc-Bich L, The-Duy V, Bac-Bien N, Xuan-Dung P. LLMs' Capabilities at the High School Level in Chemistry: Cases of ChatGPT and Microsoft Bing Chat. ChemRxiv. Cambridge: Cambridge Open Engage; 2023. https://chemrxiv.org/engage/chemrxiv/article-details/648d16b2e64f843f41e5d6bd
 
 Sinh học
 > *  D. X. Quy, L. N. Bich, P. X. Dung, and N. B. Bien, “Can ChatGPT pass the Vietnamese National High School Graduation Examination?,” arXiv Prepr. arXiv2306.09170, Jun. 2023. https://arxiv.org/abs/2306.09170
