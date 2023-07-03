@@ -40,6 +40,8 @@ Lịch sử
 GDCD
 
 ## Thảo luận
+> * Cao Hoai Thu et al. "Integrating ChatGPT into Online Education System in Vietnam: Opportunities and Challenges".  EdArXiv. https://edarxiv.org/hqyut/ 
+> * Cao Hoai Thu et al. "Tích hợp ChatGPT vào hệ thống học trực tuyến ở Việt Nam: Cơ hội và thách thức", Researchgate. https://www.researchgate.net/publication/371948889_Tich_hop_ChatGPT_vao_he_thong_hoc_truc_tuyen_o_Viet_Nam_Co_hoi_va_thach_thuc
 > * T. M. Uoc, “Ho Chi Minh’s thoughts on the content, methods of education and the application of ChatGPT in higher education today in Vietnam,” JETT, ISSN-e 1989-9572, Vol. 14, Vol. 2, 2023, pages 147-154, vol. 14, no. 2, pp. 147–154, 2023, doi: 10.47750/jett.2023.14.02.014. https://jett.labosfor.com/index.php/jett/article/view/1528/997
 > *  Hana Trương, "ChatGPT và giáo dục: Tổng quan tình hình nghiên cứu trên thế giới và Việt Nam". Researchgate.Net, 2023. https://www.researchgate.net/publication/371906775_ChatGPT_va_giao_duc_Tong_quan_tinh_hinh_nghien_cuu_tren_the_gioi_va_Viet_Nam 
 > *  Trương, Hana. 2023. “Chatgpt in Education - A Global and Vietnamese Research Overview.” EdArXiv. June 21. edarxiv.org/r4uhd. https://edarxiv.org/r4uhd/
