@@ -42,7 +42,7 @@ GDCD
 
 ## Thảo luận
 > * T. M. Uoc, “Ho Chi Minh’s thoughts on the content, methods of education and the application of ChatGPT in higher education today in Vietnam,” JETT, ISSN-e 1989-9572, Vol. 14, Vol. 2, 2023, pages 147-154, vol. 14, no. 2, pp. 147–154, 2023, doi: 10.47750/jett.2023.14.02.014. https://jett.labosfor.com/index.php/jett/article/view/1528/997
-> *  Hana Trương, "ChatGPT và giáo dục: Tổng quan tình hình nghiên cứu trên thế giới và Việt Nam". Researchgate.Net, 2023. [http://dx.doi.org/10.13140/RG.2.2.29105.56161/1](http://dx.doi.org/10.13140/RG.2.2.29105.56161/2)
+> *  Hana Trương, "ChatGPT và giáo dục: Tổng quan tình hình nghiên cứu trên thế giới và Việt Nam". Researchgate.Net, 2023. https://www.researchgate.net/publication/371906775_ChatGPT_va_giao_duc_Tong_quan_tinh_hinh_nghien_cuu_tren_the_gioi_va_Viet_Nam 
 > *  Trương, Hana. 2023. “Chatgpt in Education - A Global and Vietnamese Research Overview.” EdArXiv. June 21. edarxiv.org/r4uhd. https://edarxiv.org/r4uhd/
 > *  Hana, Truong et al. (2023). VAI TRÒ CỦA CHATGPT ĐỐI VỚI GIÁO DỤC VIỆT NAM. 10.13140/RG.2.2.16388.30089. https://www.researchgate.net/publication/371804696_VAI_TRO_CUA_CHATGPT_DOI_VOI_GIAO_DUC_VIET_NAM
 > *  Hoàng, Thị Thu Hà, Phương Huyền Lê, Thị Mỹ Lệ Đào, and Thị Nga Nguyễn. "Các yếu tố ảnh hưởng đến “Liêm chính học thuật” của sinh viên trong bối cảnh chuyển đổi số tại các trường đại học." Tạp chí Giáo dục 23, no. 12 (2023): 29-33. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/796. 
