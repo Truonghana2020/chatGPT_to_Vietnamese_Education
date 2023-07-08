@@ -19,6 +19,7 @@ Văn học
 > *  D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
 
 Anh Văn
+> *Dao, Xuan-Quy. "Performance Comparison of Large Language Models on VNHSGE English Dataset: OpenAI ChatGPT, Microsoft Bing Chat, and Google Bard." arXiv preprint arXiv:2307.02288 (2023). https://doi.org/10.48550/arXiv.2307.02288 
 > * T. T. C. Trang, “Thái Độ Và Kì Vọng Của Sinh Viên Sư Phạm Tiếng Anh Đối Với Chatgpt: Nghiên Cứu Tại Trường Đại Học Sư Phạm Hà Nội,” Tạp chí Giáo dục, vol. 23, no. 10, pp. 51–61, 2023. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/767
 > *  X.-Q. DAO, N.-B. Le, X.-D. Phan, and B.-B. Ngo, “An Evaluation of ChatGPT’s Proficiency in English Language Testing of The Vietnamese National High School Graduation Examination,” SSRN Electron. J., Jun. 2023, doi: 10.2139/SSRN.4473369. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473369
 
@@ -38,6 +39,7 @@ Lịch sử
 > *  D. X. Quy, L. N. Bich, P. X. Dung, and N. B. Bien, “Can ChatGPT pass the Vietnamese National High School Graduation Examination?,” arXiv Prepr. arXiv2306.09170, Jun. 2023. https://arxiv.org/abs/2306.09170
 
 GDCD
+> *  D. X. Quy, L. N. Bich, P. X. Dung, and N. B. Bien, “Can ChatGPT pass the Vietnamese National High School Graduation Examination?,” arXiv Prepr. arXiv2306.09170, Jun. 2023. https://arxiv.org/abs/2306.09170
 
 ## Thảo luận
 > * Cao Hoai Thu et al. "Integrating ChatGPT into Online Education System in Vietnam: Opportunities and Challenges".  EdArXiv. https://edarxiv.org/hqyut/ 
