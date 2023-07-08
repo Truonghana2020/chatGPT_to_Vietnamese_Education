@@ -12,7 +12,7 @@ Tổng quan
 
 Toán học
 > *  D. X. Quy and L. N. Bich, “Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination,” arXiv Prepr. arXiv2306.06331, Jun. 2023. https://arxiv.org/abs/2306.06331
-> *  > *  L. A. Vinh, B. T. Diển, L. Q. Quân, and V. V. Luân, “Khả năng thực hiện bài kiểm tra định kì môn Toán và môn Ngữ văn cấp Trung học của công cụ ChatGPT: Kết quả nghiên cứu và một số khuyến nghị ban đầu,” Tạp Chí Khoa Học Giáo Dục Việt Nam, vol. 2, no. 2, pp. 1–10, 2023, doi: 10.15625/vjc.2018-0041. http://vjes.vnies.edu.vn/sites/default/files/khdgvn_-_tap_19_-_so_02_-_no_01-1-10_2.pdf
+> *  L. A. Vinh, B. T. Diển, L. Q. Quân, and V. V. Luân, “Khả năng thực hiện bài kiểm tra định kì môn Toán và môn Ngữ văn cấp Trung học của công cụ ChatGPT: Kết quả nghiên cứu và một số khuyến nghị ban đầu,” Tạp Chí Khoa Học Giáo Dục Việt Nam, vol. 2, no. 2, pp. 1–10, 2023, doi: 10.15625/vjc.2018-0041. http://vjes.vnies.edu.vn/sites/default/files/khdgvn_-_tap_19_-_so_02_-_no_01-1-10_2.pdf
 
 Văn học
 > *  D. X. Quy et al., “VHSGE: Vietnamese High School Graduation Examination Dataset for Large Language Models,” arXiv Prepr. arXiv2305.12199, 2023, doi: 10.48550/arXiv.2305.12199. https://arxiv.org/abs/2305.12199
@@ -20,7 +20,7 @@ Văn học
 
 
 Anh Văn
-> *Dao, Xuan-Quy. "Performance Comparison of Large Language Models on VNHSGE English Dataset: OpenAI ChatGPT, Microsoft Bing Chat, and Google Bard." arXiv preprint arXiv:2307.02288 (2023). https://doi.org/10.48550/arXiv.2307.02288 
+> * Dao, Xuan-Quy. "Performance Comparison of Large Language Models on VNHSGE English Dataset: OpenAI ChatGPT, Microsoft Bing Chat, and Google Bard." arXiv preprint arXiv:2307.02288 (2023). https://doi.org/10.48550/arXiv.2307.02288 
 > * T. T. C. Trang, “Thái Độ Và Kì Vọng Của Sinh Viên Sư Phạm Tiếng Anh Đối Với Chatgpt: Nghiên Cứu Tại Trường Đại Học Sư Phạm Hà Nội,” Tạp chí Giáo dục, vol. 23, no. 10, pp. 51–61, 2023. https://tcgd.tapchigiaoduc.edu.vn/index.php/tapchi/article/view/767
 > *  X.-Q. DAO, N.-B. Le, X.-D. Phan, and B.-B. Ngo, “An Evaluation of ChatGPT’s Proficiency in English Language Testing of The Vietnamese National High School Graduation Examination,” SSRN Electron. J., Jun. 2023, doi: 10.2139/SSRN.4473369. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4473369
 
