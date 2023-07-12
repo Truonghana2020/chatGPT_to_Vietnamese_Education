@@ -43,6 +43,7 @@ GDCD
 > *  D. X. Quy, L. N. Bich, P. X. Dung, and N. B. Bien, “Can ChatGPT pass the Vietnamese National High School Graduation Examination?,” arXiv Prepr. arXiv2306.09170, Jun. 2023. https://arxiv.org/abs/2306.09170
 
 ## Thảo luận
+> * Cuong, Huynh Kim. "Applying advantages of ChatGPT in the educational environment case study at FPT University." Scandinavian Journal of Information Systems 35, no. 1 (2023): 680-683. http://sjisscandinavian-iris.com/index.php/sjis/article/view/380
 > * Cao Hoai Thu et al. "Integrating ChatGPT into Online Education System in Vietnam: Opportunities and Challenges".  EdArXiv. https://edarxiv.org/hqyut/ 
 > * Cao Hoai Thu et al. "Tích hợp ChatGPT vào hệ thống học trực tuyến ở Việt Nam: Cơ hội và thách thức", Researchgate. https://www.researchgate.net/publication/371948889_Tich_hop_ChatGPT_vao_he_thong_hoc_truc_tuyen_o_Viet_Nam_Co_hoi_va_thach_thuc
 > * Nguyễn Hồng Vân. (2023). Tác động của công nghệ trí tuệ nhân tạo đến người lao động và khối lượng công việc. Tạp Chí điện tử Khoa học Và Công nghệ Giao thông, 3(2), 28–37. https://doi.org/10.58845/jstt.utt.2023.vn.3.2.28-37
